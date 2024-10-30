@@ -41,7 +41,7 @@ Javascript per la parte relativa al Front-end, c# per il Back-end e MongoDB per 
 - Fantasy F1 (creazione team virtuale)
 
 
-
+![UMLcasiDuso](https://github.com/user-attachments/assets/286878c1-2957-41f5-a20a-b931b5fe0c0a)
 
 # Requisiti Non Funzionali:
 1. Performance:
