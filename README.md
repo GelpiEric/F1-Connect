@@ -30,7 +30,7 @@ Javascript per la parte relativa al Front-end, c# per il Back-end e MongoDB per 
 - Sistema di controllo dei contenuti, invio notifiche e gestione premi
 
 2. Sezione News:
-- Visualizzazione notizie in tempo reale
+- Visualizzazione notizie in tempo reale (caricate dal responsabile dei contenuti)
 - Condivisione delle notizie
 - Calendario gare interattivo
 - Classifiche piloti e costruttori aggiornate
