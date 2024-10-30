@@ -27,7 +27,7 @@ Javascript per la parte relativa al Front-end, c# per il Back-end e MongoDB per 
 - Condivisione di post, foto e video
 - Sistema di following/followers
 - Commenti e reazioni ai post
-- Sistema di controllo dei contenuti.
+- Sistema di controllo dei contenuti, invio notifiche e gestione premi
 
 2. Sezione News:
 - Visualizzazione notizie in tempo reale
