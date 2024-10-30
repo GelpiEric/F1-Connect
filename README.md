@@ -1,4 +1,4 @@
-# F1-Connect
+# F1-Connect progetto di Gelpi Eric
 # Descrizione:
 F1 Connect è l'app definitiva per tutti gli appassionati di Formula 1 che desiderano immergersi completamente nel mondo della velocità e della competizione. Questa applicazione di intrattenimento è progettata per unire i fan, offrendo una piattaforma interattiva dove connettersi, condividere emozioni e rimanere aggiornati sulle ultime novità del campionato.
 
@@ -39,6 +39,9 @@ Javascript per la parte relativa al Front-end, c# per il Back-end e MongoDB per 
 - Sistema di giochi a quiz sulla F1
 - Gestione premi e ricompense
 - Fantasy F1 (creazione team virtuale)
+
+
+
 
 # Requisiti Non Funzionali:
 1. Performance:
